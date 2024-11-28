@@ -1,6 +1,8 @@
 **************************************************************************************
 README: ECON 280 Replication Project
+
 AUTHOR: zarnaut
+
 DATE CREATED: 10/15/2024
 **************************************************************************************
 
@@ -40,4 +42,4 @@ Figures VI (b) Aggregate Phillips Curve and Acyclical Inflation
 Created in lines 97-104 of extension.do
 
 REFERENCES
-Hazell, J., J. Herreño, E. Nakamura, and J. Steinsson. "The slope of the Phillips curve: Evidence from U.S. states." _The Quarterly Journal of Economics_Vol. 137, Issue 3, August 2022, Pgs 1299–1344. Retrieved from [here](https://doi.org/10.1093/qje/qjac010).
+Hazell, J., J. Herreño, E. Nakamura, and J. Steinsson. "The slope of the Phillips curve: Evidence from U.S. states." _The Quarterly Journal of Economics_ Vol. 137, Issue 3, August 2022, Pgs 1299–1344. Retrieved from [here](https://doi.org/10.1093/qje/qjac010).
